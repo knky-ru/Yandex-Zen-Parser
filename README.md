@@ -27,4 +27,4 @@ python ZenParser.py
 This script is provided as is. If you have noticed bugs or can offer an improvement, then welcome!
 
 ## KNKY.RU
-Please visit our site for more information [KNKY.RU](https://knky.ru/)
+Please visit our website for more information [KNKY.RU](https://knky.ru/)
