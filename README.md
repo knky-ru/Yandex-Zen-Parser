@@ -1,5 +1,5 @@
 # Yandex-Zen-Parser
-Python 3 script for parsing pages from the Yandex.Zen service.
+Python 3 script for parsing pages from the Yandex.Zen service. Script use BeautifulSoup library for HTML-parsing.
 Parse only Articles with text and images. Video tags not supported yet.
 
 ## Input urls
