@@ -6,7 +6,7 @@ Yandex-Zen-Parser download images and return pure HTML-file without any class or
 ## Valid tags
 Parse only Articles with text and images ['p', 'h2', 'h3', 'img']. Video tags  are not supported yet.
 
-## 
+## Libraries required
 Before run script install [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/). Type and run in command line.
 ```
 pip install beautifulsoup4
