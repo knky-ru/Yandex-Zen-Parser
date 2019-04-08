@@ -1,4 +1,4 @@
-# Yandex-Zen-Parser
+# KNKY > Yandex-Zen-Parser
 Python 3 script for parsing pages from the Yandex.Zen service. Script use BeautifulSoup library for HTML-parsing.
 
 ## Valid tags
@@ -25,3 +25,6 @@ python ZenParser.py
 
 ## This project can be improved
 This script is provided as is. If you have noticed bugs or can offer an improvement, then welcome!
+
+## KNKY.RU
+Please visit our site for more information [KNKY.RU](https://knky.ru/)
