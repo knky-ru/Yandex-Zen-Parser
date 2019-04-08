@@ -7,7 +7,7 @@ Yandex-Zen-Parser download images and return pure HTML-file without any class or
 Parse only Articles with text and images ['p', 'h2', 'h3', 'img']. Video tags  are not supported yet.
 
 ## Input urls
-Put input.json into script roor folder.
+Paste your urls into input.json and put this file into script root folder.
 
 ### input.json structure
 ```javascript
