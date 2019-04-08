@@ -2,7 +2,7 @@
 Python 3 script for parsing pages from the Yandex.Zen service. Script use BeautifulSoup library for HTML-parsing.
 
 ## Valid tags
-Parse only Articles with text and images ['p', 'h2', 'h3', 'img']. Video tags not supported yet.
+Parse only Articles with text and images ['p', 'h2', 'h3', 'img']. Video tags  are not supported yet.
 
 ## Input urls
 Put input.json into script roor folder.
